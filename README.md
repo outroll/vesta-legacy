@@ -1,8 +1,9 @@
 # This is an archive of the legacy version of VestaCP and will not be maintained
 ## Do not use this repository for anything other than record-keeping
 
-<br>
+
 [Vesta Control Panel](http://vestacp.com/)
+
 ==================================================
 
 Vesta is back under active development as of 25 February 2024. We are commited to open source, and will engage with the community to identify the new roadmap for Vesta. Stay tuned!
