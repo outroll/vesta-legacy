@@ -1,3 +1,7 @@
+# This is an archive of the legacy version of VestaCP and will not be maintained
+## Do not use this repository for anything other than record-keeping
+
+<br>
 [Vesta Control Panel](http://vestacp.com/)
 ==================================================
 
